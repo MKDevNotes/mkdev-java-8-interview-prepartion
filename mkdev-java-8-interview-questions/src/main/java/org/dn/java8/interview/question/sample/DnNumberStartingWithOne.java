@@ -6,6 +6,7 @@ import java.util.List;
 /***
  * @author Muthukumar Thangavinayagam.
  * Created on 06-07-2023
+ * Given a list of integers, find out all the numbers starting with 1 using Stream functions?
  ***/
 
 public class DnNumberStartingWithOne {
