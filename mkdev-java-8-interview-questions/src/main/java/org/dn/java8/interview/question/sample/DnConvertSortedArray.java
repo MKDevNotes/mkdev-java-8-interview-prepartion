@@ -5,6 +5,7 @@ import java.util.Arrays;
 /***
  * @author Muthukumar Thangavinayagam.
  * Created on 07-07-2023
+ * Write a Java 8 program to sort an array and then convert the sorted array into Stream?
  ***/
 
 public class DnConvertSortedArray {
