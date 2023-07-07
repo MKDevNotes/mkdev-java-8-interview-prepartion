@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 /***
  * @author Muthukumar Thangavinayagam.
  * Created on 06-07-2023
+ * Given a String, find the first non-repeated character in it using Stream functions
  ***/
 
 public class DnFirstNonRepeated {
