@@ -10,6 +10,7 @@ import java.util.stream.Collectors;
 /***
  * @author Muthukumar Thangavinayagam.
  * Created on 07-07-2023
+ * How to count each element/word from the String ArrayList in Java8?
  ***/
 
 public class DnCountEachElement {
