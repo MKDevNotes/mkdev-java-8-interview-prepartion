@@ -1,4 +1,4 @@
-package com.mkdev.java8.employee.repository.stream;
+package com.mkdev.java8.employee.stream;
 
 import java.util.List;
 import java.util.stream.Collectors;
