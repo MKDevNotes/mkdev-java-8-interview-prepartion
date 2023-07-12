@@ -21,7 +21,9 @@ public class EmployeeStreamReduceExample {
 		System.out.println("Employees Email IDs "+emailIds);
 		
 
-		Optional<EmployeeBean> employeeSalary = EmployeeRepository.getAllEmployeeDetails().stream().reduce((x,y) -> x.getSalary() > y.getSalary() ? x : y);
+		Optional<EmployeeBean> employeeSalary = EmployeeRepository.getAllEmployeeDetails()
+																 .stream()
+																 .reduce((x, y) -> x.getSalary() > y.getSalary() ? x : y);
 		System.out.println("Find Employees Higest Salary ");
 		System.out.println("Employee Name "+employeeSalary.get().getFirstName()+" "+employeeSalary.get().getSalary());
 	}
