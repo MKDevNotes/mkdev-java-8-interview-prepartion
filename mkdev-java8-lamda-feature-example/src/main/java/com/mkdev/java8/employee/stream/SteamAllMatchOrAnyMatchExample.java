@@ -2,7 +2,10 @@ package com.mkdev.java8.employee.stream;
 
 import java.util.Arrays;
 import java.util.List;
-
+/**
+ * @author Muthukumar Thangavinayagam
+ *
+ */
 public class SteamAllMatchOrAnyMatchExample {
 
 	public static void main(String[] args) {
