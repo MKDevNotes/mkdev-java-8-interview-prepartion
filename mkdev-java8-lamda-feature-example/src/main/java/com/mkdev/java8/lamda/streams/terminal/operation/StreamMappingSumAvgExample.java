@@ -1,4 +1,4 @@
-package com.mkdev.java8.employee.stream;
+package com.mkdev.java8.lamda.streams.terminal.operation;
 
 import java.util.stream.Collectors;
 
